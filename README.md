@@ -2,7 +2,7 @@
 - 👀 I’m interested in DataScience, Machine Learning , Artificial Intelligence and exploring Data 
 - 🌱 I’m currently a student and learning Data Science and Machine Learning.
 - At this stage of my life, its all about learning and getting things right with my skills through involvment in projects related to my studies.
-- 
+
 
 <!---
 Brighterdays321/Brighterdays321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
