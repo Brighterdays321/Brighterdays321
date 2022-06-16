@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brighterdays321
 - 👀 I’m interested in DataScience, Machine Learning , Artificial Intelligence and exploring Data 
 - 🌱 I’m currently a student and learning Data Science and Machine Learning.
-- At this stage of my life, its all about learning and getting things right with my skills through involvment in projects related to my studies and getting ready to help solve business problems which will in turn maximize there earnings and help make profitable decisions.
+- At this stage of my life, its all about learning and getting things right with my skills through involvment in projects related to my studies and getting ready to help solve business problems in relation to being able to assist management make profitable decisions for growth.
 
 
 <!---
